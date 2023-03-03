@@ -1,4 +1,0 @@
-- src: https://github.com/gamuniz/requirements_test
-  version: devel
-  name: role_test
-  scm: git
