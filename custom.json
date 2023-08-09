@@ -7,9 +7,9 @@
 		}
 	},
 	"cent": {
-		"hosts": ["52.36.69.147"],
+		"hosts": ["172.20.0.1"],
 		"vars": {
-			"ansible_user": "root",
+			"ansible_connection": "local",
 			"managed_name": "[]"
 		}
 	},
